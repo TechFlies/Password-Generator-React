@@ -1,0 +1,58 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Build outputs
+dist
+dist-ssr
+build
+out
+.vite
+/.vite
+/.cache
+/.parcel-cache
+
+# Environment files (do not commit secrets)
+.env
+.env.local
+.env.*.local
+.env.*
+
+
+# Coverage and test reports
+coverage/
+*.lcov
+.nyc_output/
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.iml
+
+# OS & misc
+.DS_Store
+Thumbs.db
+
+# IDE / project files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Tooling caches
+.eslintcache
+.sass-cache
+.history
+
+# Misc
+dist-ssr
