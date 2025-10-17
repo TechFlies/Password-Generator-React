@@ -31,7 +31,7 @@ You can add a screenshot or GIF here:
 - Place your image in: `public/preview.png`
 - Reference it like this:
 
-![App Preview](./public/preview.png)
+![App Preview](https://github.com/TechFlies/Password-Generator-React/blob/9c5b3d8588694aebcb8764aeb963a83a6f0d5366/Screenshot%202025-10-18%20010830_edited.png)
 
 ---
 
