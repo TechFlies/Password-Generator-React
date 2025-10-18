@@ -142,4 +142,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 - React community and docs
 - Tailwind CSS for the rapid UI development
+  
 You, for checking this out!
