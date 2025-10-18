@@ -57,7 +57,7 @@ Vite or similar: npm run dev
 Create React App: npm start
 Check your package.json scripts to confirm.
 
-# Common commands
+### Common commands
 npm run dev   # Start dev server (Vite/Next/etc.)
 npm start     # Start dev server (CRA)
 npm run build # Production build
