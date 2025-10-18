@@ -93,15 +93,11 @@ Key file:
 - Color contrast optimized for readability
 - Keyboard focusable interactive elements
   
-🔐 Security Notes
-Current randomness uses Math.random, which is not cryptographically secure.
-For stronger security, consider replacing randomness with Web Crypto:
+## 🔐 Security Notes
+- Current randomness uses Math.random, which is not cryptographically secure.
+- For stronger security, consider replacing randomness with Web Crypto:
 // Example: Get a secure random integer in [0, max)
-const secureIndex = (max) => crypto.getRandomValues(new Uint32Array(1))[0] % max
-
-Copy
-
-Insert
+- const secureIndex = (max) => crypto.getRandomValues(new Uint32Array(1))[0] % max
 
 See Roadmap below for planned improvements.
 
