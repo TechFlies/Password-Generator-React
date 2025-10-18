@@ -94,6 +94,7 @@ Key file:
 - Keyboard focusable interactive elements
   
 ## 🔐 Security Notes
+
 - Current randomness uses Math.random, which is not cryptographically secure.
 - For stronger security, consider replacing randomness with Web Crypto:
 // Example: Get a secure random integer in [0, max)
@@ -101,16 +102,14 @@ Key file:
 
 See Roadmap below for planned improvements.
 
-📦 Project Structure (excerpt)
+## 📦 Project Structure (excerpt)
+
 src/
 ├─ App.jsx
 ├─ App.css
 public/
 ├─ preview.png   # optional screenshot
 
-Copy
-
-Insert
 
 🧪 Testing
 No tests are included yet. Contributions with unit tests (e.g., Vitest/Jest + React Testing Library) are welcome.
