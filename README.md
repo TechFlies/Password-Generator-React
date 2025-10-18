@@ -87,10 +87,12 @@ Key file:
 
 - src/App.jsx
   
-♿ Accessibility
-Toggle buttons use role="switch" and aria-checked for screen readers
-Color contrast optimized for readability
-Keyboard focusable interactive elements
+## ♿ Accessibility
+
+- Toggle buttons use role="switch" and aria-checked for screen readers
+- Color contrast optimized for readability
+- Keyboard focusable interactive elements
+  
 🔐 Security Notes
 Current randomness uses Math.random, which is not cryptographically secure.
 For stronger security, consider replacing randomness with Web Crypto:
