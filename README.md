@@ -62,9 +62,6 @@ npm run dev   # Start dev server (Vite/Next/etc.)
 npm start     # Start dev server (CRA)
 npm run build # Production build
 
-Copy
-
-Insert
 
 🧩 How It Works
 Toggle which character sets to include (Uppercase, Lowercase, Numbers, Symbols)
