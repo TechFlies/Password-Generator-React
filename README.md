@@ -111,7 +111,8 @@ public/
 ├─ preview.png   # optional screenshot
 
 
-🧪 Testing
+## 🧪 Testing
+
 No tests are included yet. Contributions with unit tests (e.g., Vitest/Jest + React Testing Library) are welcome.
 
 🗺️ Roadmap
