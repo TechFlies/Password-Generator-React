@@ -78,13 +78,12 @@ The generator:
 - Fills remaining length from the pool
 - Shuffles the password to avoid predictable patterns
   
-🛠️ Tech Stack
-React (functional components and hooks)
-Tailwind CSS for styling
-Clipboard API for copy functionality
+## 🛠️ Tech Stack
+- React (functional components and hooks)
+- Tailwind CSS for styling
+- Clipboard API for copy functionality
 Key file:
-
-src/App.jsx
+- src/App.jsx
 ♿ Accessibility
 Toggle buttons use role="switch" and aria-checked for screen readers
 Color contrast optimized for readability
