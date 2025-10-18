@@ -48,10 +48,7 @@ npm install
 yarn
 # or
 pnpm install
-
-Copy
-
-Insert
+```
 
 Run the app
 Depending on your setup:
