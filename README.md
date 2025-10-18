@@ -115,14 +115,16 @@ public/
 
 No tests are included yet. Contributions with unit tests (e.g., Vitest/Jest + React Testing Library) are welcome.
 
-🗺️ Roadmap
-Use crypto.getRandomValues for cryptographically secure randomness
-Add user-configurable character blacklist
-Add option to avoid ambiguous characters (l, I, 1, O, 0)
-Export passwords to a file
-Internationalization (i18n)
-Unit tests and E2E tests (Playwright/Cypress)
-PWA support for offline usage
+## 🗺️ Roadmap
+
+- Use crypto.getRandomValues for cryptographically secure randomness
+- Add user-configurable character blacklist
+- Add option to avoid ambiguous characters (l, I, 1, O, 0)
+- Export passwords to a file
+- Internationalization (i18n)
+- Unit tests and E2E tests (Playwright/Cypress)
+- PWA support for offline usage
+  
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
