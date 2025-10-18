@@ -125,14 +125,15 @@ No tests are included yet. Contributions with unit tests (e.g., Vitest/Jest + Re
 - Unit tests and E2E tests (Playwright/Cypress)
 - PWA support for offline usage
   
-🤝 Contributing
+## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
-Fork the repo
-Create a feature branch: git checkout -b feat/amazing-feature
-Commit changes: git commit -m "feat: add amazing feature"
-Push to branch: git push origin feat/amazing-feature
-Open a Pull Request
+- Fork the repo
+- Create a feature branch: git checkout -b feat/amazing-feature
+- Commit changes: git commit -m "feat: add amazing feature"
+- Push to branch: git push origin feat/amazing-feature
+- Open a Pull Request
+  
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
