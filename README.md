@@ -51,11 +51,12 @@ pnpm install
 ```
 
 Run the app
+
 Depending on your setup:
 
-Vite or similar: npm run dev
-Create React App: npm start
-Check your package.json scripts to confirm.
+- Vite or similar: npm run dev
+- Create React App: npm start
+- Check your package.json scripts to confirm.
 
 ### Common commands
 
