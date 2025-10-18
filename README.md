@@ -134,10 +134,12 @@ Contributions, issues, and feature requests are welcome!
 - Push to branch: git push origin feat/amazing-feature
 - Open a Pull Request
   
-📄 License
+## 📄 License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-❤️ Acknowledgements
-React community and docs
-Tailwind CSS for the rapid UI development
+## ❤️ Acknowledgements
+
+- React community and docs
+- Tailwind CSS for the rapid UI development
 You, for checking this out!
