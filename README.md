@@ -63,18 +63,21 @@ npm start     # Start dev server (CRA)
 npm run build # Production build
 
 
-🧩 How It Works
-Toggle which character sets to include (Uppercase, Lowercase, Numbers, Symbols)
-Pick a length between 4 and 32
-Click Generate to create a new password
-Click the Copy button to copy to your clipboard
-Strength meter updates based on length and variety
+## 🧩 How It Works
+
+- Toggle which character sets to include (Uppercase, Lowercase, Numbers, Symbols)
+- Pick a length between 4 and 32
+- Click Generate to create a new password
+- Click the Copy button to copy to your clipboard
+- Strength meter updates based on length and variety
+
 The generator:
 
-Builds a pool from selected sets
-Ensures at least one character from each selected set
-Fills remaining length from the pool
-Shuffles the password to avoid predictable patterns
+- Builds a pool from selected sets
+- Ensures at least one character from each selected set
+- Fills remaining length from the pool
+- Shuffles the password to avoid predictable patterns
+  
 🛠️ Tech Stack
 React (functional components and hooks)
 Tailwind CSS for styling
