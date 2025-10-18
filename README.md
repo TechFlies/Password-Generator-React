@@ -82,8 +82,11 @@ The generator:
 - React (functional components and hooks)
 - Tailwind CSS for styling
 - Clipboard API for copy functionality
+  
 Key file:
+
 - src/App.jsx
+  
 ♿ Accessibility
 Toggle buttons use role="switch" and aria-checked for screen readers
 Color contrast optimized for readability
